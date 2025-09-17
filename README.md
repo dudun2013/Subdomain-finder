@@ -1,4 +1,6 @@
 # 🌐 Subdomain Finder
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)]
 
 Tools sederhana berbasis Python untuk melakukan pencarian subdomain pada sebuah domain target.  
 Dibuat untuk tujuan edukasi dan pentesting, bukan untuk aktivitas ilegal.  
