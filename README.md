@@ -1,22 +1,23 @@
-# 🌐 Subdomain Finder
+# Subdomain Finder
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)]
 
-Tools sederhana berbasis Python untuk melakukan pencarian subdomain pada sebuah domain target.  
-Dibuat untuk tujuan edukasi dan pentesting, bukan untuk aktivitas ilegal.  
+A simple Python-based tool for searching subdomains on a target domain.
+
+Made for educational and pentesting purposes, not for illegal activities.
 
 ---
 
-## ✨ Fitur
-- Mencari subdomain aktif dari sebuah domain
-- Support wordlist custom
-- Menampilkan status HTTP dari subdomain yang ditemukan
-- Ringan, simple, bisa dijalankan di semua OS (Linux/Windows)
+## Features
+- Searches for active subdomains of a domain
+- Supports custom wordlists
+- Displays the HTTP status of discovered subdomains
+- Lightweight, simple, and runs on all operating systems (Linux/Windows)
 
 ---
 
-## 📦 Instalasi
-Clone repository ini:
+## How to use the tool
+Clone this repository:
 
 ```bash
 git clone https://github.com/YogaRmdn/Subdomain-Finder.git
